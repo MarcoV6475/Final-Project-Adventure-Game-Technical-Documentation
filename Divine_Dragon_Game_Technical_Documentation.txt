@@ -1,0 +1,86 @@
+Marco Villegas 
+CSS-225
+Professor Likoudis
+6/18/23
+
+=== Divine Dragon Game: Technical Documentation ===
+
+
+= Product Overview: =
+To begin, a brief summary of the game, the story takes place when the player gets 
+in a battle againts a monster known as a Abomination. The player must defeat it 
+with the help of a mysterious Goddess and explore the Kingdom of Tenrou where 
+Dragon kin live. In this adventure, the player will go through challenges, 
+hardships, and ultimatelty figure out the truth behind themselves and the Kingdom 
+of Tenrou. The player will follow the plot of the story by communicating with 
+Non-playable characters (npcs), will get asked questions, fight bosses, and have 
+to make morraly difficult decisions.
+
+
+= Product Objectives: =
+This program is meant to be used as a game; although it is far from being a 
+"completed game," this offers a skeleton of how to formulate the Divine Dragon 
+Game. The way this game is designed is the player gets asked various questions 
+they must then answer them; they will learn various things about the Kingdom of 
+Tenrou and about their true selfs. 
+
+
+= Where is the Code Hosted: =
+The program is all python code and can be hosted in the same zipped file this 
+Technical Document and on GitHub. In the GitHub website there you can find the 
+entire code split into multiple chapters and has multiple functions. 
+
+
+= External Services: =
+The python code was msotly worked on Python Idle; in the file there is a Main Game
+file that you can run the game in. In there I have imported the various chapters 
+in the Divine Cragon Game along with a gvars2 file.  
+
+
+= Language and Technologies: =
+As mentioned previously this Divine Dragon Game is made through 100% python code. 
+In the code I imported various chapters and modules to be used in my game. 
+
+
+= System Requirements and Supported Applications: =
+This program requires multiple files, it will need the following: Main_Game_File,
+gvars2 file, and Chapter1-5. This can be used in pycharm, run on python idle, or 
+can be used in GitHub as well. 
+
+
+= Coding/Naming Conventions: =
+Inside the Divine Dragon game I leave comments throughout the program to give more
+insights into the story. For example, I have multiple comments that list the intro
+of a chapter or has a comment listing where the player is in the story. 
+
+
+= How to Run/Build/Deploy the Program:=
+In the Divine Dragon Game I built it with various python functionality I used the 
+following: import statements, def fucntions, while statements, if else statements,
+for loops, and print statements. In further detail, the "Main_Game_File" has 
+listed various imported chapters and the gvars2 file. Each chapter has a print 
+statements telling the intro to each chapter, next in the code there would be 
+multiple def fucntions or for loops throughout the chapters. In this python code
+for each functions that I have I have also called the fucntion right below it;
+because it will call the fucntion and proceeding with the code. The Divine Dragon
+Game can be run and deployed by simply accesing the "Main_Game_File" and running
+the program from there; then it will import the rest of the chapter files
+and you can find these files on my GitHub. 
+
+= Overview of the Architecture: =
+The python code is started with the user playing the game. Next, the code inside
+the previously mentioned files are being called. Continuing, the code will take the
+inputs form the user and continue to follow through the game as it was program.
+After, the code will be imported ot the "Main_Game_File" and the user will keep 
+playing until they have reached the end and reciece the Game Ended line. 
+
+
+= How to start the Program: =
+The Divine Dragon Game can be used in multiple platforms and the to run the program
+is easy. The palyer must run the Program in the, "Main_Game_File" and the first 
+thing to do is input a player name, and as soon as that is completed the rest of
+the chapters will be imported. That is when you are launched into the Divine 
+Dragon Game. Please Enjoy!
+
+
+ 
